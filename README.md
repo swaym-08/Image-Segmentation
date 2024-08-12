@@ -12,5 +12,5 @@ Below are examples of the EfficientNet-B0 architecture and the segmentation outp
 
 ## Images
 
-![EfficientNet-B0 Architecture](Image-Segmentation/images/efficientnet-b0-architecture.png)
-![Segmentation Output](Image-Segmentation/images/segmentation-output.png)
+![EfficientNet-B0 Architecture](images/efficientnet-b0-architecture.png)
+![Segmentation Output](images/segmentation-output.png)
